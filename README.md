@@ -1,3 +1,4 @@
 # LearnGit
 Learning Git and Github From Apna College
-By sraddha mam
+By sraddha (khapra)
+
